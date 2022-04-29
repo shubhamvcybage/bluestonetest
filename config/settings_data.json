@@ -32,6 +32,7 @@
       "feature-row": {
         "type": "feature-row",
         "settings": {
+          "image": "shopify:\/\/shop_images\/Untitled_design_11_720x_e505c6cd-8478-4a4f-a02c-91110b42ab58.png",
           "layout": "left",
           "title": "ETHICALLY SOURCED",
           "text": "<p>We work directly with sustainable coffee farms across Central & South America to find the best quality coffee beans. This forms the basis for our signature blends.<\/p>",
@@ -99,7 +100,7 @@
         "type": "collection",
         "settings": {
           "title": "Coffee ON REPEAT—DELIVERED",
-          "collection": "coffee-packets",
+          "collection": "all-coffee",
           "grid": 4,
           "rows": 1,
           "show_vendor": false,
