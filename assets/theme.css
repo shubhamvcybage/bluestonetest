@@ -1081,7 +1081,7 @@ textarea {
 
 .main-content .shopify-section {
   display: inherit;
-font:family:"Neutraface2Display_Titling_1_002";}
+font:family:"Neutraface2";}
 
 .critical-hidden {
   display: inherit; }
@@ -1279,7 +1279,7 @@ h6,
 /*================ Hero and slideshow headers ================*/
 .mega-title,
 .mega-subtitle {
-  font-family:"Neutraface2Display_Titling_1_002";
+  font-family:"Neutraface2";
  
   color: var(--color-overlay-title-text); }
   .hero .mega-title, .hero
@@ -7004,7 +7004,7 @@ hr {
   margin-bottom: 0; }
 
 @font-face {
-font-family: 'Neutraface2Display_Titling_1_002';
+font-family: 'Neutraface2';
 src: url('{{ 'Neutraface2Display_Titling_1_002.otf?' | asset_url }}');
 src: url('{{ 'Neutraface2Display_Titling_1_002.otf??#iefix' | asset_url }}') format('otf'),
 url('{{ 'Neutraface2Display_Titling_1_002.otf' | asset_url }}') format('otf'),
@@ -7026,7 +7026,7 @@ font-style: normal;
 -moz-osx-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface2Display_Titling_1_002" !important;}
+h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface2" !important;}
 .site-footer .h3{
   font-family: 'Avenir';
 }
