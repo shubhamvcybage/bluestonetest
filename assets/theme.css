@@ -7017,9 +7017,9 @@ font-style: normal;
 }
 @font-face {
 font-family: 'Avenir';
-src: url('{{ 'AvenirLTStd-Book.otf?' | asset_url }}');
-src: url('{{ 'AvenirLTStd-Light.otf??#iefix' | asset_url }}') format('otf'),
-url('{{ 'AvenirLTStd-Roman.otf' | asset_url }}') format('otf');
+src: url('{{ 'Avenir_002.ttc?' | asset_url }}');
+src: url('{{ 'Avenir_002.ttc??#iefix' | asset_url }}') format('ttc'),
+url('{{ 'Avenir_002.ttc' | asset_url }}') format('ttc');
 font-weight: normal;
 font-style: normal;
 -webkit-font-smoothing: antialiased;
