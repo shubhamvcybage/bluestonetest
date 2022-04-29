@@ -7005,10 +7005,10 @@ hr {
 
 @font-face {
 font-family: 'Neutraface-Text';
-src: url('{{ 'NeutraText-Bold.otf?' | asset_url }}');
-src: url('{{ 'NeutraText-BoldItalic.eot??#iefix' | asset_url }}') format('eot'),
-url('{{ 'NeutraText-Book.otf' | asset_url }}') format('otf'),
-url('{{ 'NeutraText-BookItalic.otf' | asset_url }}') format('otf'),
+src: url('{{ 'Neutraface2Display_Titling_1_002.otf?' | asset_url }}');
+src: url('{{ 'Neutraface2Display_Titling_1_002.otf??#iefix' | asset_url }}') format('otf'),
+url('{{ 'Neutraface2Display_Titling_1_002.otf' | asset_url }}') format('otf'),
+url('{{ 'Neutraface2Display_Titling_1_002.otf' | asset_url }}') format('otf'),
 url('{{ 'Neutraface-Text.svg#Neutraface-Text' | asset_url }}') format('svg');
 font-weight: normal;
 font-style: normal;
