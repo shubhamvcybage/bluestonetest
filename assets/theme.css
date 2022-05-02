@@ -1452,10 +1452,10 @@ a[href^="tel"] {
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
-  border: 1px solid transparent;
+  border: 1px solid #1b2a5b;
   border-radius: 2px;
   padding: 8px 15px;
-  background-color: var(--color-btn-primary);
+  background-color: #b5d4ff;
   color: var(--color-btn-primary-text);
   font-family: var(--font-stack-header);
   font-style: var(--font-style-header);
@@ -7043,4 +7043,10 @@ body{
 .mega-title{
  margin-top:80px; 
   margin-left:40px;
+}
+
+.btn hero__btn{
+ 
+  backgroun
+  
 }
