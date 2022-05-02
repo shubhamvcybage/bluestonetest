@@ -7043,8 +7043,11 @@ body{
  margin-top:80px; 
   margin-left:40px;
 }
-
+/* 
 .hero__btn{
  margin-top: 18px;
   
+} */
+.hero__inner .page-width.text-center .hero__btn {
+margin-top: 44%!important;
 }
