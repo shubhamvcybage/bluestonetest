@@ -1280,7 +1280,7 @@ h6,
 .mega-title,
 .mega-subtitle {
   font-family:"Neutraface2";
- 
+  text-align :left !important;
   color: var(--color-overlay-title-text); }
   .hero .mega-title, .hero
   .mega-subtitle {
