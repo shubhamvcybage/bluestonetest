@@ -1450,7 +1450,6 @@ a[href^="tel"] {
   width: auto;
   text-decoration: none;
   text-align: center;
-  vertical-align: middle;
   cursor: pointer;
   border: 1px solid #1b2a5b;
   border-radius: 2px;
