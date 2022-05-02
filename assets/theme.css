@@ -1283,7 +1283,6 @@ h6,
    position: absolute;
   top: 8px;
   left: 16px;
-  font-size: 18px;
   color: var(--color-overlay-title-text); }
   .hero .mega-title, .hero
   .mega-subtitle {
@@ -7041,5 +7040,4 @@ body{
    position: relative;
   top: 8px;
   left: 16px;
-  font-size: 18px;
 }
