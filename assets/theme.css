@@ -1280,7 +1280,10 @@ h6,
 .mega-title,
 .mega-subtitle {
   font-family:"Neutraface2";
-  color: ; }
+   position: absolute;
+   top: 8px;
+  left: 16px;
+  color: var(--color-overlay-title-text); }
   .hero .mega-title, .hero
   .mega-subtitle {
     text-shadow: 0 0 4px rgba(0, 0, 0, 0.4); }
@@ -7032,17 +7035,4 @@ h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface2" !important;}
 
 body{
   font-family: 'Avenir';
-}
-.mega-title{
-  float:left;
-  text-align:left
-  
-}
-
-.mega-subtitle{
-    text-align:left;
-    float:left;
-    margin-top:100px;
-}
-  
 }
