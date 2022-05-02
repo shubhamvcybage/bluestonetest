@@ -7034,8 +7034,15 @@ body{
   font-family: 'Avenir';
 }
 .mega-title{
- 
   float:left;
   text-align:left
+  
+}
+
+.mega-subtitle{
+    text-align:left;
+    float:left;
+    margin-top:100px;
+}
   
 }
