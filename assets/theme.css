@@ -1452,7 +1452,7 @@ a[href^="tel"] {
   text-align: center;
   cursor: pointer;
   border: 1px solid #1b2a5b;
-  border-radius: 2px;
+  border-radius: 8px;
   padding: 8px 15px;
   background-color: #b5d4ff;
   color: var(--color-btn-primary-text);
