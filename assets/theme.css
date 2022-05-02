@@ -7062,6 +7062,7 @@ margin-right : 70% !important
 .hero__btn{
  width: 200px; 
  color:#1b2a5b;
+  position:absolute;
   top:0;
   left:0;
 }
