@@ -6796,7 +6796,7 @@ hr {
   bottom: 0;
   left: 0;
   background-color: var(--color-image-overlay);
-  opacity: var(--opacity-image-overlay);
+  opacity: 0;
   z-index: 3; }
 
 .video-is-playing .video__overlay {
