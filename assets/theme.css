@@ -3160,7 +3160,9 @@ hr {
   background-repeat: no-repeat;
   background-size: cover;
   height: 300px;
-  opacity: 1; }
+  opacity: 1; 
+  image-overlay:0;
+}
   @media only screen and (max-width: 749px) {
     .collection-hero__image {
       height: 180px; } }
