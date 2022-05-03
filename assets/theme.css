@@ -3160,7 +3160,7 @@ hr {
   background-repeat: no-repeat;
   background-size: cover;
   height: 300px;
-  opacity: 0; 
+  opacity: 1; 
   opacity-image-overlay : 0;
 }
   @media only screen and (max-width: 749px) {
