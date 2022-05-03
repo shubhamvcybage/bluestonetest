@@ -3184,7 +3184,7 @@ background-color:#b5d4ff;}
 
 .collection-hero__title {
   position: absolute;
-  color: var(--color-overlay-title-text);
+      color: #1b2a5b;
   width: 100%;
   
   text-align: center;
