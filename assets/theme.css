@@ -3147,6 +3147,10 @@ background-color:#b5d4ff;}
   @media only screen and (min-width: 750px) {
     .collection-hero {
       margin-bottom: 35px; } }
+.collection-header{
+ 
+  background-color:#b5d4ff;
+}
 
 .collection-description {
   margin-bottom: 22px;
