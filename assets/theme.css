@@ -1105,7 +1105,7 @@ font:family:"Neutraface2";}
 
 .section-header {
   margin-bottom: 35px;
-       color: #8be1d2;
+      background-color: #8be1d2;
 }
   @media only screen and (min-width: 750px) {
     .section-header {
