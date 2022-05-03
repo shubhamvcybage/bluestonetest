@@ -3158,7 +3158,7 @@ hr {
 .collection-hero__image {
   background-position: 50% 50%;
   background-repeat: no-repeat;
-/*   background-size: cover; */
+  background-size: auto;
   height: 300px;
   opacity: 1; 
   opacity-image-overlay : 0;
