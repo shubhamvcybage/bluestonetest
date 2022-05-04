@@ -7019,9 +7019,9 @@ background-color:#b5d4ff;}
   margin-bottom: 0; }
 
 @font-face {
-font-family: 'Neutraface2';
-src: url('{{ 'Neutraface2.woff?' | asset_url }}');
-src: url('{{ 'Neutraface2.woff??#iefix' | asset_url }}') format('woff'),
+font-family: 'Neutraface_2_Text_Demi';
+src: url('{{ 'Neutraface_2_Text_Demi.woff2?' | asset_url }}');
+src: url('{{ 'Neutraface_2_Text_Demi.woff2??#iefix' | asset_url }}') format('woff'),
 url('{{ 'Neutraface2.woff' | asset_url }}') format('woff');
 font-weight: normal;
 font-style: normal;
@@ -7041,7 +7041,7 @@ font-style: normal;
 
 
 
-h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface2" !important;}
+h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface_2_Text_Demi" !important;}
 .site-footer .h3{
   font-family: 'Avenir';
 }
