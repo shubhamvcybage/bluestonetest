@@ -7024,13 +7024,21 @@ src: url('{{ 'Neutraface2.woff?' | asset_url }}');
 src: url('{{ 'Neutraface2.woff??#iefix' | asset_url }}') format('woff');
 }
  */
-@font-face {font-family: "Neutraface 2 Display Inline";
+/* @font-face {font-family: "Neutraface 2 Display Inline";
  src: url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.eot");
   src: url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.eot?#iefix") format("embedded-opentype"), 
     url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.woff2") format("woff2"), 
     url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.woff") format("woff"),
     url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.ttf") format("truetype"),
     url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.svg#Neutraface 2 Display Inline") format("svg"); 
+} */
+
+@font-face {font-family: "Neutraface 2 Display Titling"; src: url("//db.onlinewebfonts.com/t/96bb5409c00859ebeb8c6ec958509dae.eot"); 
+  src: url("//db.onlinewebfonts.com/t/96bb5409c00859ebeb8c6ec958509dae.eot?#iefix") format("embedded-opentype"),
+  url("//db.onlinewebfonts.com/t/96bb5409c00859ebeb8c6ec958509dae.woff2") format("woff2"),
+  url("//db.onlinewebfonts.com/t/96bb5409c00859ebeb8c6ec958509dae.woff") format("woff"), 
+  url("//db.onlinewebfonts.com/t/96bb5409c00859ebeb8c6ec958509dae.ttf") format("truetype"), 
+  url("//db.onlinewebfonts.com/t/96bb5409c00859ebeb8c6ec958509dae.svg#Neutraface 2 Display Titling") format("svg"); 
 }
 
 @font-face {
