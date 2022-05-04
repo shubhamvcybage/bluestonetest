@@ -1081,7 +1081,7 @@ textarea {
 
 .main-content .shopify-section {
   display: inherit;
-font:family:"Neutraface2";}
+font:family:"Neutraface 2 Display Inline";}
 
 .critical-hidden {
   display: inherit; }
@@ -1283,7 +1283,7 @@ h6,
 /*================ Hero and slideshow headers ================*/
 .mega-title,
 .mega-subtitle {
-  font-family:"Neutraface2";
+  font-family:"Neutraface 2 Display Inline";
    position: absolute;
    top: 8px;
   left: 16px;
@@ -7018,12 +7018,19 @@ background-color:#b5d4ff;}
 .store-availability-list__phone {
   margin-bottom: 0; }
 
-@font-face {
+/* @font-face {
 font-family: "Neutraface2";
 src: url('{{ 'Neutraface2.woff?' | asset_url }}');
 src: url('{{ 'Neutraface2.woff??#iefix' | asset_url }}') format('woff');
 }
-
+ */
+@font-face {font-family: "Neutraface 2 Display Inline";
+ src: url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.eot");
+  src: url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.eot?#iefix") format("embedded-opentype"), 
+    url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.woff2") format("woff2"), 
+    url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/0d2703af1d063ee7547a5e8a189bdb8f.svg#Neutraface 2 Display Inline") format("svg"); }
 
 @font-face {
 font-family: 'Avenir';
@@ -7038,7 +7045,7 @@ font-style: normal;
 
 
 
-h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface2" !important;}
+h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface 2 Display Inline" !important;}
 .site-footer .h3{
   font-family: 'Avenir';
 }
@@ -7075,3 +7082,4 @@ margin-right : 70% !important
   top:30px;
   left:0;
 }
+<link href="//db.onlinewebfonts.com/c/0d2703af1d063ee7547a5e8a189bdb8f?family=Neutraface+2+Display+Inline" rel="stylesheet" type="text/css"/>#2 Using @import CSS directive, put the following line in add to your css file.(http | https)
