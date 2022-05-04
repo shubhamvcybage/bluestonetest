@@ -1081,7 +1081,7 @@ textarea {
 
 .main-content .shopify-section {
   display: inherit;
-font:family:"Neutraface 2 Display Inline";}
+font:family:"Neutraface 2 Display Titling";}
 
 .critical-hidden {
   display: inherit; }
@@ -1283,7 +1283,7 @@ h6,
 /*================ Hero and slideshow headers ================*/
 .mega-title,
 .mega-subtitle {
-  font-family:"Neutraface 2 Display Inline";
+  font-family:"Neutraface 2 Display Titling";
    position: absolute;
    top: 8px;
   left: 16px;
@@ -7054,7 +7054,7 @@ font-style: normal;
 
 
 
-h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface 2 Display Inline" !important;}
+h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface 2 Display Titling" !important;}
 .site-footer .h3{
   font-family: 'Avenir';
 }
@@ -7091,4 +7091,3 @@ margin-right : 70% !important
   top:30px;
   left:0;
 }
-<link href="//db.onlinewebfonts.com/c/0d2703af1d063ee7547a5e8a189bdb8f?family=Neutraface+2+Display+Inline" rel="stylesheet" type="text/css"/>#2 Using @import CSS directive, put the following line in add to your css file.(http | https)
