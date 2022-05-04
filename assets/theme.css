@@ -7020,10 +7020,10 @@ background-color:#b5d4ff;}
 
 @font-face {
 font-family: 'Neutraface2';
-src: url('{{ 'Neutraface2Display_Titling_1_002.otf?' | asset_url }}');
-src: url('{{ 'Neutraface2Display_Titling_1_002.otf??#iefix' | asset_url }}') format('otf'),
-url('{{ 'Neutraface2Display_Titling_1_002.otf' | asset_url }}') format('otf'),
-url('{{ 'Neutraface2Display_Titling_1_002.otf' | asset_url }}') format('otf'),
+src: url('{{ 'Neutraface_2_Text_Demi.woff?' | asset_url }}');
+src: url('{{ 'Neutraface_2_Text_Demi.woff??#iefix' | asset_url }}') format('woff'),
+url('{{ 'Neutraface_2_Text_Demi.woff' | asset_url }}') format('woff'),
+url('{{ 'Neutraface_2_Text_Demi.woff' | asset_url }}') format('woff'),
 url('{{ 'Neutraface-Text.svg#Neutraface-Text' | asset_url }}') format('svg');
 font-weight: normal;
 font-style: normal;
@@ -7040,6 +7040,8 @@ font-style: normal;
 -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: antialiased;
 }
+
+
 
 h1, h2, h3, h4, h5, h6, li, a {font-family: "Neutraface2" !important;}
 .site-footer .h3{
