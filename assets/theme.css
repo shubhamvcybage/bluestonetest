@@ -7020,9 +7020,9 @@ background-color:#b5d4ff;}
 
 @font-face {
 font-family: 'Neutraface2';
-src: url('{{ 'Neutraface2Display Titling (1) (002).woff?' | asset_url }}');
-src: url('{{ 'Neutraface2Display Titling (1) (002).woff??#iefix' | asset_url }}') format('woff'),
-url('{{ 'Neutraface2Display Titling (1) (002).woff' | asset_url }}') format('woff');
+src: url('{{ 'Neutraface2.woff?' | asset_url }}');
+src: url('{{ 'Neutraface2.woff??#iefix' | asset_url }}') format('woff'),
+url('{{ 'Neutraface2.woff' | asset_url }}') format('woff');
 font-weight: normal;
 font-style: normal;
 -webkit-font-smoothing: antialiased;
