@@ -7020,11 +7020,9 @@ background-color:#b5d4ff;}
 
 @font-face {
 font-family: 'Neutraface2';
-src: url('{{ 'Neutraface_2_Text_Demi.woff?' | asset_url }}');
-src: url('{{ 'Neutraface_2_Text_Demi.woff??#iefix' | asset_url }}') format('woff'),
-url('{{ 'Neutraface_2_Text_Demi.woff' | asset_url }}') format('woff'),
-url('{{ 'Neutraface_2_Text_Demi.woff' | asset_url }}') format('woff'),
-url('{{ 'Neutraface-Text.svg#Neutraface-Text' | asset_url }}') format('svg');
+src: url('{{ 'Neutraface_2Display-Titling.woff?' | asset_url }}');
+src: url('{{ 'Neutraface_2Display-Titling.woff??#iefix' | asset_url }}') format('woff'),
+url('{{ 'Neutraface_2Display-Titling.woff' | asset_url }}') format('woff');
 font-weight: normal;
 font-style: normal;
 -webkit-font-smoothing: antialiased;
