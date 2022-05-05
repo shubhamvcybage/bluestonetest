@@ -3184,7 +3184,7 @@ background-color:#b5d4ff;}
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: var(--color-image-overlay);
+  background-color:;
   opacity: var(--opacity-image-overlay); }
 
 .collection-hero__title {
