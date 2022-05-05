@@ -7097,5 +7097,8 @@ margin-right : 70% !important
 
     max-height: 500px !important;
     max-width: 500px !important;
-
+    background: 
+}
+.hero__overlay::before {
+    opacity:0 !important;
 }
