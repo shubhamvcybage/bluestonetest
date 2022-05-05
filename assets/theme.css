@@ -7091,3 +7091,10 @@ margin-right : 70% !important
   top:30px;
   left:0;
 }
+
+.collection-hero__image-container {
+
+    max-height: 500px !important;
+    max-width: 500px !important;
+
+}
