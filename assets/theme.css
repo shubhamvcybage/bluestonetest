@@ -3171,6 +3171,7 @@ background-color:#b5d4ff;}
   border-radius : 8px;
   height: 300px;
   opacity: 1; 
+  background-color: #e8f8f5;
   opacity-image-overlay : 0;
 }
   @media only screen and (max-width: 749px) {
