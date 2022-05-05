@@ -3167,8 +3167,8 @@ background-color:#E8F8F5;}
 .collection-hero__image {
   background-position: 75% ;
   background-repeat: no-repeat;
-  background-size: 300px 200px;
-  border-radius : 8px;
+  background-size: 250px 200px;
+  border-radius : 20%;
   height: 300px;
   opacity: 1; 
   opacity-image-overlay : 0;
