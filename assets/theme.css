@@ -1290,6 +1290,7 @@ h6,
   color: var(--color-overlay-title-text); }
   .hero .mega-title, .hero
   .mega-subtitle {
+    font-family:"Avenir";
     text-shadow: 0 0 4px rgba(0, 0, 0, 0.4); }
   @media only screen and (min-width: 750px) {
     .mega-title,
