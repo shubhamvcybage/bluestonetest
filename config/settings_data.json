@@ -9,9 +9,9 @@
           "main_linklist": "main-menu",
           "message": false,
           "home_page_only": true,
-          "message_text": "Announce something here",
+          "message_text": "Free Shipping on all orders above 30$",
           "message_link": "",
-          "color_bg": "#3a3a3a",
+          "color_bg": "#1a425c",
           "color_text": "#ffffff"
         }
       },
