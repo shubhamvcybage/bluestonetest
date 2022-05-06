@@ -7,7 +7,7 @@
           "align_logo": "left",
           "logo_max_width": 100,
           "main_linklist": "main-menu",
-          "message": false,
+          "message": true,
           "home_page_only": true,
           "message_text": "Free Shipping on all orders above 30$",
           "message_link": "",
