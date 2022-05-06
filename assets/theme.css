@@ -1307,11 +1307,11 @@ h6,
 
 /* rules for responsive design */
 
-@media only screen and (max-width: 750px) {
+/* @media only screen and (max-width: 750px) {
     .mega-title{
       top:4px;
       left: 8px;
-    }
+    } */
 
 .mega-title--large {
   font-size: calc(((var(--font-size-header) + 8) / (var(--font-size-base))) * 1em); }
