@@ -1295,13 +1295,23 @@ h6,
   @media only screen and (min-width: 750px) {
     .mega-title,
     .mega-subtitle {
-      text-shadow: 0 0 4px rgba(0, 0, 0, 0.4); } }
+      text-shadow: 0 0 4px rgba(0, 0, 0, 0.4); 
+        
+    } }
 
 
 /* new rules for mega title*/
 .mega-title {
   margin-bottom: 8px; 
  font-size:32px;}
+
+/* rules for responsive design */
+
+@media only screen and (max-width: 750px) {
+    .mega-title{
+      top:4px;
+      left: 8px;
+    }
 
 .mega-title--large {
   font-size: calc(((var(--font-size-header) + 8) / (var(--font-size-base))) * 1em); }
