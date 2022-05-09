@@ -7130,4 +7130,41 @@ margin-right : 70% !important
     left: 1px;
    }
 } */
-  
+       
+    @media (max-width: 750px)
+      {
+       .site-header__icons-wrapper{
+         float: right;
+        
+      }
+        
+      @media (max-width: 450px)
+      {
+       
+        .mega-title{
+         font-size: 18px;
+          
+        }
+        
+        .mega-subtitle{
+          font-size: 12px;
+        }
+        
+        .hero__btn{
+        width: 120px;
+        }
+      }
+      @media (min-width:451px) and (max-width:786px)
+        {
+          
+         .mega-title{
+          font-size:22px; 
+         }
+          .hero__btn{
+        width: 150px;
+        }
+          
+           .mega-subtitle{
+          font-size: 14px;
+        }
+        }
