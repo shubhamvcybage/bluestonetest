@@ -7113,7 +7113,7 @@ margin-right : 70% !important
 .hero__overlay::before {
     opacity:0 !important;
 }
-
+/* 
 @media  (max-width: 768px) {
     .hero__btn{
       top: 50px;
@@ -7129,5 +7129,5 @@ margin-right : 70% !important
     .mega-subtitle {
     left: 1px;
    }
-}
+} */
   
