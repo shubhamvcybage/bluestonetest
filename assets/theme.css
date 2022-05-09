@@ -7114,7 +7114,7 @@ margin-right : 70% !important
     opacity:0 !important;
 }
 
-@media  all and (max-width: 750px) {
+@media  (max-width: 768px) {
     .hero__btn{
       top: 50px;
       left:30px
