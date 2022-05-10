@@ -3730,7 +3730,7 @@ background-color:#E8F8F5;}
 .site-header__logo {
   margin: 15px 0; }
   .logo-align--center .site-header__logo {
-    text-align: center;
+/*     text-align: center; */
     margin: 0 auto; }
     @media only screen and (max-width: 749px) {
       .logo-align--center .site-header__logo {
@@ -3738,7 +3738,7 @@ background-color:#E8F8F5;}
         margin: 15px 0; } }
   @media only screen and (max-width: 749px) {
     .site-header__logo {
-      padding-left: 12px;
+      padding-left: 2px;
       text-align: left; }
       .site-header__logo img {
         margin: 0; } }
