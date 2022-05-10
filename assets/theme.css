@@ -3748,6 +3748,7 @@ background-color:#E8F8F5;}
   word-break: break-word; }
   @media only screen and (min-width: 750px) {
     .logo-align--center .site-header__logo-link {
+      font-size: 14px;
       margin: 0 auto; } }
 
 .site-header__logo-image {
