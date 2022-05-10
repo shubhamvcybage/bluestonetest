@@ -7173,7 +7173,7 @@ margin-right : 70% !important
         @media (min-width:749px)
           {
             .site-header__logo-link{
-             font-size:14px;
-             margin-left:2px;
+             font-size: 12px;
+             margin-left: 2px;
             }
           }
