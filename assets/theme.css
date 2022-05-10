@@ -7169,3 +7169,11 @@ margin-right : 70% !important
           font-size: 14px;
         }
         }
+        
+        @media (min-width:748px)
+          {
+            .site_header__logo_link{
+             font-size:14px;
+             margin-left:2px;
+            }
+          }
