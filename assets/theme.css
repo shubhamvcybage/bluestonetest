@@ -7174,7 +7174,7 @@ margin-right : 70% !important
         @media (min-width:749px) and (max-width: 1125px)
           {
             .site-header__logo-link{
-             font-size: 12px;
-             margin-left: 2px;
+             font-size: 15px;
+             margin-left: -30 px;
             }
           }
