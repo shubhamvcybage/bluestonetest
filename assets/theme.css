@@ -7138,6 +7138,7 @@ margin-right : 70% !important
          float: right;
         
       }
+    }
         
       @media (max-width: 450px)
       {
@@ -7168,7 +7169,7 @@ margin-right : 70% !important
            .mega-subtitle{
           font-size: 14px;
         }
-        }
+       }
         
         @media (min-width:749px) and (max-width: 1125px)
           {
