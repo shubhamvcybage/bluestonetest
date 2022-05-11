@@ -7225,7 +7225,6 @@ and (-webkit-min-device-pixel-ratio: 3) {
   and (max-device-width: 1600px) 
   and (-webkit-min-device-pixel-ratio: 1) { 
     .hero__inner{
-    font-size:2em;
     text-align:center;
     
 }
