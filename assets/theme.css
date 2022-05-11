@@ -7181,8 +7181,8 @@ margin-right : 70% !important
             }
           }
 
- /* For Mobiles */
- @media screen and (max-device-width: 480px)
+ /* For Mobiles suvh as Samsung S20 Ultra*/
+ @media  (max-device-width: 480px) and (max-device-height: 915px)
 and (orientation: portrait) {
   .mega-title {
         position: absolute;
