@@ -7200,7 +7200,7 @@ and (orientation: portrait) {
         top:17em;
         left: 0.1em
         }
-  collection-hero__title {
+  .collection-hero__title {
       font-size:2em;
   
   }
