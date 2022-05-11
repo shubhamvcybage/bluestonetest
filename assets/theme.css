@@ -7156,7 +7156,7 @@ margin-right : 70% !important
         width: 120px;
         }
       }
-      @media (min-width:451px) and (max-width:786px)
+      @media (min-width:451px) and (max-width:768px)
         {
           
          .mega-title{
@@ -7178,3 +7178,15 @@ margin-right : 70% !important
              margin-left: 0.002em;
             }
           }
+
+ /* For Mobiles */
+ @media screen and (max-device-width: 480px)
+and (orientation: portrait) {
+  .mega-title {
+        position: absolute;
+        top:2px;
+        left: 2px;
+        font-size:18px;
+  }
+}
+     
