@@ -7208,6 +7208,6 @@ and (orientation: portrait) {
 and (-webkit-min-device-pixel-ratio: 3) {
   .mega-subtitle {
     
-    top: 14em;
+    top: 12em;
 }
 }
