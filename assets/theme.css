@@ -7225,4 +7225,6 @@ and (-webkit-min-device-pixel-ratio: 3) {
   and (max-device-width: 1600px) 
   and (-webkit-min-device-pixel-ratio: 1) { 
     
+    font-size:2em;
+}
 }
