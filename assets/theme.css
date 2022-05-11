@@ -7188,15 +7188,16 @@ and (orientation: portrait) {
         position: absolute;
         top:2px;
         left: 0.1em;
+        right: 1em;
         font-size:3em;
   }
     .mega-subtitle{
           font-size: 18px;
-          top: 6em;
+          top: 10em;
           left:0.1em;
         }
        .hero__btn{
-        top:12em;
+        top:14em;
         left: 0.1em
         }
 }
