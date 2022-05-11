@@ -7190,7 +7190,7 @@ and (orientation: portrait) {
   }
     .mega-subtitle{
           font-size: 18px;
-          top: 60px;
+          top: 5em;
           left:2px;
         }
 }
