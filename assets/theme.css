@@ -7186,7 +7186,7 @@ and (orientation: portrait) {
         position: absolute;
         top:2px;
         left: 2px;
-        font-size:18px;
+        font-size:3em;
   }
     .mega-subtitle{
           font-size: 18px;
