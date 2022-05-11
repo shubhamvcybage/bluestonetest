@@ -1287,6 +1287,7 @@ h6,
    position: absolute;
    top: 8px;
   left: 16px;
+  text-align:start;
   color: var(--color-overlay-title-text); }
   .hero .mega-title, .hero
   .mega-subtitle {
@@ -7187,7 +7188,6 @@ and (orientation: portrait) {
         position: absolute;
         top:2px;
         left: 0.1em;
-        right:1em;
         font-size:3em;
   }
     .mega-subtitle{
