@@ -7203,4 +7203,11 @@ and (orientation: portrait) {
 }
 
 
-     
+     /* For iPhone 6 and 6 plus Portrait or Landscape View */
+@media (min-device-height: 667px) and (min-device-width: 375px)
+and (-webkit-min-device-pixel-ratio: 3) {
+  .mega-subtitle {
+    
+    top: 14em;
+}
+}
