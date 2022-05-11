@@ -5885,6 +5885,7 @@ background-color:#E8F8F5;}
   padding: 70px 0;
   z-index: 2; 
   margin-left: 10% !important;
+  align-items: start;
 }
 
 .hero__btn {
@@ -7199,4 +7200,6 @@ and (orientation: portrait) {
         left: 0.1em
         }
 }
+
+
      
