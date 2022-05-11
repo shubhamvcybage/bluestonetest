@@ -7188,5 +7188,10 @@ and (orientation: portrait) {
         left: 2px;
         font-size:18px;
   }
+    .mega-subtitle{
+          font-size: 18px;
+          top: 20px;
+          left:2px;
+        }
 }
      
