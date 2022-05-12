@@ -7204,6 +7204,9 @@ and (orientation: portrait) {
       font-size: 1.5em;
   
   }
+  collection-hero__image {
+    
+  }
 }
 
 
@@ -7232,4 +7235,8 @@ and (-webkit-min-device-pixel-ratio: 3) {
     text-align:center;
     
 }
+}
+.img-fluid{
+   max-width: 100%; 
+    height: auto;
 }
