@@ -36,7 +36,7 @@
 
     {% if section.settings.show_collection_image and collection.image %}
       <div class="collection-hero">
-        <div class="collection-hero__image ratio-container lazyload js"
+        <div class="collection-hero__image ratio-container lazyload js img-fluid"
              data-bgset="{% include 'bgset', image: collection.image %}"
              data-sizes="auto"
              data-parent-fit="cover"
