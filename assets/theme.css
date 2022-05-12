@@ -7238,5 +7238,5 @@ and (-webkit-min-device-pixel-ratio: 3) {
 }
 .img-fluid{
    max-width: 100%; 
-    height: auto;
+    height: 100%;
 }
