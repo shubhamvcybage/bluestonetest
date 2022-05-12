@@ -7239,3 +7239,8 @@ and (-webkit-min-device-pixel-ratio: 3) {
 .img-fluid{
    max-width: 100%; 
 }
+.site-header__logo-link{
+  
+   font-size: 5vw;
+  
+}
